@@ -20,6 +20,8 @@ If you use [Alfred](https://www.alfredapp.com/) and track campaigns via [Google 
 ![shorten](screenshots/shorten.png)
 ![notification](screenshots/notification.png)
 
+The URL is ready to paste: [https://sammich.shop?utm_source=github&utm_campaign=alfred_workflow&utm_medium=banner](https://sammich.shop?utm_source=github&utm_campaign=alfred_workflow&utm_medium=banner)
+
 ### URL Shortener
 
 Optional: If you'd like to use the [URL Shortener](https://developers.google.com/url-shortener/) in the workflow, you need to set your `google_api_key` in the workflow environment variables. [Here are instructions on generating your API key with Google](https://developers.google.com/url-shortener/v1/getting_started#APIKey).
