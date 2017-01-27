@@ -1,8 +1,8 @@
 # Use Alfred to Build Campaign URLs
-If you use [Alfred](https://www.alfredapp.com/) and track campaigns via [Google Analytics](https://analytics.google.com/) , this tool is for you. This basically replicates the [Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) that Google provides in Alfred.
+If you use [Alfred](https://www.alfredapp.com/) and track campaigns via [Google Analytics](https://analytics.google.com/), this tool is for you. This basically replicates the [Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) that Google provides in Alfred.
 
 ## Usage
-1. [Download the workflow](Campaign URL Builder.alfredworkflow)
+1. [Download the workflow](https://github.com/sammichshop/alfred-campaign-url-builder/raw/master/Campaign%20URL%20Builder.alfredworkflow)
 2. Double click to install
 3. Type `campaign` to trigger
 4. The workflow will guide you step-by-step through the parameters
